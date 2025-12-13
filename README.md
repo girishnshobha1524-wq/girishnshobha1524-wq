@@ -1,4 +1,4 @@
-## Hi Welcome to my Git-Hub Page👋
+## Hi Welcome Git-Hub Profile👋
 
 <!--
 **girishnshobha1524-wq/girishnshobha1524-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
