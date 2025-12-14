@@ -1,4 +1,7 @@
 ## Hi Welcome Git-Hub Profile👋 Girish
+<hr>
+
+Authour Girish
 
 <!--
 **girishnshobha1524-wq/girishnshobha1524-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
