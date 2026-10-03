@@ -31,12 +31,10 @@
   display:inline-block;
   border:1px solid rgba(34,197,94,0.35);
 ">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=22C55E&width=1000&lines=Associate+Software+Engineer+%7C+Python+%E2%80%A2+Backend+%E2%80%A2+Full-Stack+Fundamentals"
-    style="display:block;"
-  />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=22C55E&width=900&lines=MLB+Failure+Analysis+Trainee+at+Foxconn;Electronics+Engineer+Transitioning+to+Software+Development;Python+%7C+FastAPI+%7C+PostgreSQL;REST+APIs+%7C+AWS+Cloud+%7C+AI%2FML+Fundamentals;Building+Scalable+Backend+Applications"
+  alt="Typing SVG"/>
 </div>
-
 <!-- Summary (Justified) -->
 <p style="
   font-size:15.5px;
@@ -45,10 +43,7 @@
   text-align:justify;
   max-width:980px;
 ">
-Associate Software Engineer with a strong interest in backend development and API design.
-I enjoy building RESTful services, working with relational databases, and writing clean,
-maintainable Python code. I continuously improve through consistent practice, feedback,
-and structured learning to deliver reliable and scalable solutions.
+Electronics & Communication Engineering graduate currently working at Foxconn in Main Logic Board (MLB) Failure Analysis for 4G/5G communication products. Experienced in troubleshooting hardware failures, root cause analysis, and technical problem-solving in semiconductor and electronics manufacturing environments. Alongside my professional role, I am actively upskilling in Python Backend Development, FastAPI, PostgreSQL, REST APIs, AWS Cloud, and AI/ML fundamentals through hands-on projects and continuous learning. Seeking opportunities to transition into Software Engineering and Backend Development by combining strong analytical skills with modern software technologies.
 </p>
 
 <hr style="border:0; height:1px; background:linear-gradient(to right, transparent, #ef4444, transparent); margin:34px 0;" />
@@ -124,11 +119,12 @@ and structured learning to deliver reliable and scalable solutions.
   line-height:1.9;
   font-size:15px;
   text-align:justify;
-">
-  <li>🎯 <b>Currently seeking:</b> Entry-level / Associate Software Engineer roles</li>
-  <li>🔭 <b>Hands-on experience:</b> FastAPI & Django backend services</li>
-  <li>🌱 <b>Actively strengthening:</b> Python, REST APIs, SQL, system fundamentals</li>
-  <li>👯 <b>Open to collaboration:</b> Backend & API-driven projects</li>
+"><li>💼 <b>Current Role:</b> MLB Failure Analysis Trainee at Foxconn</li>
+<li>🔍 <b>Core Experience:</b> Root Cause Analysis, Hardware Debugging & Failure Analysis</li>
+<li>🚀 <b>Building Skills In:</b> Python, FastAPI, PostgreSQL, REST APIs & Backend Development</li>
+<li>☁️ <b>Learning:</b> AWS Cloud, System Design & AI/ML Fundamentals</li>
+<li>🎯 <b>Career Goal:</b> Backend Software Engineer / Software Developer</li>
+<li>👯 <b>Open to Collaboration:</b> Backend, API Development & Automation Projects</li>
 </ul>
 
 <!-- Links -->
